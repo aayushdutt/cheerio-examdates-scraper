@@ -6,7 +6,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "fs-extra": "^8.0.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "tableexport": "^5.2.0"
